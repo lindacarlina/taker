@@ -1333,3 +1333,13 @@
 3/8/2025 | 4:19:41 AM | INFO | Trying to check user miner status... 
 3/8/2025 | 4:19:42 AM | INFO | Last mining time: 3/7/2025, 4:26:21 PM
 3/8/2025 | 4:19:42 AM | WARN | Mining already started, next mining time is: 3/8/2025, 4:26:21 PM
+3/8/2025 | 8:21:10 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/8/2025 | 8:21:10 AM | INFO | Start process for wallet 0x203992ba44b220A2A579165a736C1a581CAA41D1 
+3/8/2025 | 8:21:11 AM | ERROR | Failed to get nonce: Request failed with status code 502
+3/8/2025 | 8:21:11 AM | WARN | Retrying... (2 attempts left) 
+3/8/2025 | 8:22:14 AM | ERROR | Failed to get nonce: Request failed with status code 502
+3/8/2025 | 8:22:14 AM | WARN | Retrying... (1 attempts left) 
+3/8/2025 | 8:23:18 AM | ERROR | Failed to get nonce: Request failed with status code 502
+3/8/2025 | 8:23:18 AM | WARN | Retrying... (0 attempts left) 
+3/8/2025 | 8:23:21 AM | ERROR | Failed to get nonce after retries: Request failed with status code 502
+3/8/2025 | 8:23:21 AM | ERROR | Failed to retrieve nonce for wallet: 0x203992ba44b220A2A579165a736C1a581CAA41D1 
