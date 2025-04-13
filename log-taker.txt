@@ -3296,3 +3296,12 @@
 4/13/2025 | 3:12:42 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 4/13/2025 | 3:12:42 AM | INFO | Trying to activate mining on-chain for wallet: 0x203992ba44b220A2A579165a736C1a581CAA41D1 
 4/13/2025 | 3:12:49 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x1f23b9f4a75e2bc3d88d99bcdbb734497d7bea289da972bc4f8dd23cf623194a 
+4/13/2025 | 4:49:55 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/13/2025 | 4:49:55 AM | INFO | Start process for wallet 0x203992ba44b220A2A579165a736C1a581CAA41D1 
+4/13/2025 | 4:49:56 AM | INFO | Trying To Login for wallet: 0x203992ba44b220A2A579165a736C1a581CAA41D1 
+4/13/2025 | 4:49:57 AM | INFO | Login successful... 
+4/13/2025 | 4:49:57 AM | INFO | Trying to check user info... 
+4/13/2025 | 4:49:58 AM | INFO | User ID: 103361653 | Twitter: @lindacrlina | Total Points: 1248000 
+4/13/2025 | 4:49:58 AM | INFO | Trying to check user miner status... 
+4/13/2025 | 4:49:59 AM | INFO | Last mining time: 4/13/2025, 3:12:48 AM
+4/13/2025 | 4:49:59 AM | WARN | Mining already started, next mining time is: 4/14/2025, 3:12:48 AM
