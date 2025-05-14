@@ -5059,3 +5059,15 @@
 5/14/2025 | 1:52:07 AM | INFO | Trying to activate mining on-chain for wallet: 0x203992ba44b220A2A579165a736C1a581CAA41D1 
 5/14/2025 | 1:52:12 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
 5/14/2025 | 1:52:12 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/14/2025 | 4:27:34 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/14/2025 | 4:27:34 AM | INFO | Start process for wallet 0x203992ba44b220A2A579165a736C1a581CAA41D1 
+5/14/2025 | 4:27:35 AM | INFO | Trying To Login for wallet: 0x203992ba44b220A2A579165a736C1a581CAA41D1 
+5/14/2025 | 4:27:35 AM | INFO | Login successful... 
+5/14/2025 | 4:27:35 AM | INFO | Trying to check user info... 
+5/14/2025 | 4:27:36 AM | INFO | User ID: 103361653 | Twitter: @lindacrlina | Total Points: 1920000 
+5/14/2025 | 4:27:36 AM | INFO | Trying to check user miner status... 
+5/14/2025 | 4:27:37 AM | INFO | Last mining time: 5/12/2025, 8:26:09 PM
+5/14/2025 | 4:27:37 AM | INFO | Trying to start Mining for wallet: 0x203992ba44b220A2A579165a736C1a581CAA41D1 
+5/14/2025 | 4:27:38 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/14/2025 | 4:27:38 AM | INFO | Trying to activate mining on-chain for wallet: 0x203992ba44b220A2A579165a736C1a581CAA41D1 
+5/14/2025 | 4:27:50 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xf2bd1edfaddcee7701a17aacaf324cef2d4551730a7423d71d1edddab56abcd9 
