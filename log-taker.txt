@@ -5524,3 +5524,15 @@
 5/22/2025 | 1:53:22 AM | INFO | Trying to activate mining on-chain for wallet: 0x203992ba44b220A2A579165a736C1a581CAA41D1 
 5/22/2025 | 1:53:24 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x203992ba44b220A2A579165a736C1a581CAA41D1"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x5c","from":"0x203992ba44b220a2a579165a736c1a581caa41d1","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/22/2025 | 1:53:24 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/22/2025 | 4:28:37 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/22/2025 | 4:28:37 AM | INFO | Start process for wallet 0x203992ba44b220A2A579165a736C1a581CAA41D1 
+5/22/2025 | 4:28:37 AM | INFO | Trying To Login for wallet: 0x203992ba44b220A2A579165a736C1a581CAA41D1 
+5/22/2025 | 4:28:38 AM | INFO | Login successful... 
+5/22/2025 | 4:28:38 AM | INFO | Trying to check user info... 
+5/22/2025 | 4:28:39 AM | INFO | User ID: 103361653 | Twitter: @lindacrlina | Total Points: 2088000 
+5/22/2025 | 4:28:39 AM | INFO | Trying to check user miner status... 
+5/22/2025 | 4:28:40 AM | INFO | Last mining time: 5/20/2025, 8:26:00 PM
+5/22/2025 | 4:28:40 AM | INFO | Trying to start Mining for wallet: 0x203992ba44b220A2A579165a736C1a581CAA41D1 
+5/22/2025 | 4:28:41 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/22/2025 | 4:28:41 AM | INFO | Trying to activate mining on-chain for wallet: 0x203992ba44b220A2A579165a736C1a581CAA41D1 
+5/22/2025 | 4:28:52 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xfd028c320ce7f8a7fa6dc16fe3051163f0c1797535ce8921f42192e474b2f96b 
