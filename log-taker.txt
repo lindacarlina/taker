@@ -8467,3 +8467,13 @@
 7/13/2025 | 2:11:14 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 7/13/2025 | 2:11:14 AM | INFO | Trying to activate mining on-chain for wallet: 0x203992ba44b220A2A579165a736C1a581CAA41D1 
 7/13/2025 | 2:11:32 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x3e5210bc7a237fb2a1b743c724ad9a2737362a15569dad7a059769a4c33cce2a 
+7/13/2025 | 4:39:17 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/13/2025 | 4:39:17 AM | INFO | Start process for wallet 0x203992ba44b220A2A579165a736C1a581CAA41D1 
+7/13/2025 | 4:41:30 AM | ERROR | Failed to get nonce: connect ETIMEDOUT 101.47.181.18:443
+7/13/2025 | 4:41:30 AM | WARN | Retrying... (2 attempts left) 
+7/13/2025 | 4:43:49 AM | ERROR | Failed to get nonce: connect ETIMEDOUT 101.47.181.18:443
+7/13/2025 | 4:43:49 AM | WARN | Retrying... (1 attempts left) 
+7/13/2025 | 4:46:08 AM | ERROR | Failed to get nonce: connect ETIMEDOUT 101.47.181.18:443
+7/13/2025 | 4:46:08 AM | WARN | Retrying... (0 attempts left) 
+7/13/2025 | 4:48:28 AM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
+7/13/2025 | 4:48:28 AM | ERROR | Failed to retrieve nonce for wallet: 0x203992ba44b220A2A579165a736C1a581CAA41D1 
